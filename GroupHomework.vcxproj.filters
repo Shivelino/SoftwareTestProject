@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="GroupHomework\program.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="GroupHomework\Boundary_Box.cpp">
+      <Filter>source\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="GroupHomework\Bubble.cpp">
+      <Filter>source\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="GroupHomework\CEuler767.cpp">
+      <Filter>source\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="GroupHomework\CMatrix767.cpp">
+      <Filter>source\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="GroupHomework\CQuaternion767.cpp">
+      <Filter>source\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="GroupHomework\CVector767.cpp">
+      <Filter>source\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="GroupHomework\Geometry.cpp">
+      <Filter>source\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="GroupHomework\FileIO.cpp">
+      <Filter>source\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="GroupHomework\Gears.cpp">
+      <Filter>source\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="GroupHomework\SceneManager.cpp">
+      <Filter>source\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="GroupHomework\Player.cpp">
+      <Filter>source\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="GroupHomework\stdafx.cpp">
+      <Filter>source\stdafx</Filter>
+    </ClCompile>
+    <ClCompile Include="GroupHomework\Util.cpp">
+      <Filter>source\Util</Filter>
+    </ClCompile>
+    <ClCompile Include="GroupHomework\Task1.cpp">
+      <Filter>source\Program</Filter>
+    </ClCompile>
+    <ClCompile Include="GroupHomework\Task2.cpp">
+      <Filter>source\Program</Filter>
+    </ClCompile>
+    <ClCompile Include="GroupHomework\Shader.cpp">
+      <Filter>source\Managers</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GroupHomework\Boundary_Box.h">
+      <Filter>include\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="GroupHomework\Bubble.h">
+      <Filter>include\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="GroupHomework\Player.h">
+      <Filter>include\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="GroupHomework\glut.h">
+      <Filter>include\glut</Filter>
+    </ClInclude>
+    <ClInclude Include="GroupHomework\stdafx.h">
+      <Filter>include\stdafx</Filter>
+    </ClInclude>
+    <ClInclude Include="GroupHomework\targetver.h">
+      <Filter>include\stdafx</Filter>
+    </ClInclude>
+    <ClInclude Include="GroupHomework\Util.h">
+      <Filter>include\Util</Filter>
+    </ClInclude>
+    <ClInclude Include="GroupHomework\CEuler767.h">
+      <Filter>include\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="GroupHomework\CMatrix767.h">
+      <Filter>include\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="GroupHomework\CQuaternion767.h">
+      <Filter>include\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="GroupHomework\CVector767.h">
+      <Filter>include\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="GroupHomework\FileIO.h">
+      <Filter>include\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="GroupHomework\Gears.h">
+      <Filter>include\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="GroupHomework\SceneManager.h">
+      <Filter>include\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="GroupHomework\Shader.h">
+      <Filter>include\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="GroupHomework\Geometry.h">
+      <Filter>include\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="GroupHomework\glew.h">
+      <Filter>include\glut</Filter>
+    </ClInclude>
+    <ClInclude Include="GroupHomework\Pch.h">
+      <Filter>include\Pch</Filter>
+    </ClInclude>
+    <ClInclude Include="GroupHomework\Scene.h">
+      <Filter>include\Pch</Filter>
+    </ClInclude>
+    <ClInclude Include="GroupHomework\Operations.h">
+      <Filter>include\Pch</Filter>
+    </ClInclude>
+    <ClInclude Include="GroupHomework\Entities.h">
+      <Filter>include\Pch</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="source">
+      <UniqueIdentifier>{f252b75c-83c6-4164-8948-9a75870cd05a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include">
+      <UniqueIdentifier>{ada43001-9452-4733-889b-0c0413ff7638}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lib">
+      <UniqueIdentifier>{72eb6219-4a2b-4dad-bf8f-d399b7260829}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\Entities">
+      <UniqueIdentifier>{3f8e2e57-375d-49c8-ac88-b3f4ac464759}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\glut">
+      <UniqueIdentifier>{f26fe8e0-5285-44b9-8599-0449f74d2277}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\stdafx">
+      <UniqueIdentifier>{7f405b8b-c312-44f9-9829-8f446204446d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\Util">
+      <UniqueIdentifier>{0482debb-78e1-4453-a5e3-947b18d7ff10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\Components">
+      <UniqueIdentifier>{449f3581-d3dc-4971-888a-631dc34503e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\Managers">
+      <UniqueIdentifier>{2120be03-93f8-460f-95bd-e93711553764}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\Entities">
+      <UniqueIdentifier>{edef6c9f-d0cf-4935-b72e-a27651febd95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\Components">
+      <UniqueIdentifier>{d6273cd8-eb29-48e9-a972-ca444bd281e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\Managers">
+      <UniqueIdentifier>{019b3ac3-b73b-4e5d-bd79-1f6a7514a241}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\stdafx">
+      <UniqueIdentifier>{6ccfa968-5fd8-42aa-9438-e3fb13caa98a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\Util">
+      <UniqueIdentifier>{2f33dc6e-cc55-41a0-9af5-36a3473ad7aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\Program">
+      <UniqueIdentifier>{42bfe771-73ed-4bd7-861a-ee7e90620746}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\Pch">
+      <UniqueIdentifier>{5205509d-8442-4765-bbe3-f7945da2372b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="GroupHomework\ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="GroupHomework\freeglut.lib">
+      <Filter>lib</Filter>
+    </Library>
+    <Library Include="GroupHomework\glew32.lib">
+      <Filter>lib</Filter>
+    </Library>
+  </ItemGroup>
+</Project>
